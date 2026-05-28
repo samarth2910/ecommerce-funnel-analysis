@@ -1,4 +1,4 @@
-# E-commerce Funnel Analysis using SQL & BigQuery
+# ecommerce-funnel-analysis
 
 ## 📌 Project Overview
 
@@ -195,13 +195,13 @@ The Average Order Value is ~$115.
 ## 📸 Screenshots
 
 ### 1. Funnel SQL Logic
-File: `Funnel Creation.png`
+![Funnel Creation](Funnel%20Creation.png)
 
 ### 2. Revenue KPI Results
-File: `Revenue KPI.png`
+![Revenue KPI](Revenue%20KPI.png)
 
 ### 3. Revenue KPI Query
-File: `Revenue Query.png`
+![Revenue Query](Revenue%20Query.png)
 
 ---
 
